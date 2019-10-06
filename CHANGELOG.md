@@ -1,7 +1,18 @@
 # Change Log
-All notable changes to the "nord-operator-theme" extension will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## [1.2.0]
+* forked from [chaddanna/Nord-Operator-Theme](https://github.com/chaddanna/Nord-Operator-Theme)
+* reduced the number of italic items
+* darkened background, muted most white text & background highlights
+* adjusted gutter to stand out
+* swapped and adusted HTML colors
+* function names are yellow
+* added `/demo` folder
 
-## [Unreleased]
-- Initial release
+## [1.1.0]
+* added no-italics version
+
+## [1.0.0]
+* intial release as [Nord-Operator-Theme](https://github.com/chaddanna/Nord-Operator-Theme), assuming forked from [arcticicestudio/nord-visual-studio-code]{https://github.com/arcticicestudio/nord-visual-studio-code}
+* added italics
+* added more colors
