@@ -27,7 +27,7 @@
     "editorLineNumber.foreground": "#d8dee966",
     "editorWhitespace.foreground": "#4c566a9e",
     "editorWidget.background": "#2e3440",
-    "editorWidgetBorder": "#3b4252",
+    "editorWidget.border": "#3b4252",
     "editor.background": "#0b0d10",
     "editor.foreground": "#d8dee9e8",
     "editor.hoverHighlightBackground": "#3b4252",
@@ -49,7 +49,7 @@
     "editorBracketMatch.background": "#2e344000",
     "editorBracketMatch.border": "#88c0d0",
     "editorCodeLens.foreground": "#4c566a",
-    "editorGroup.background": "#2e3440",
+    "editorGroup.emptyBackground": "#2e3440",
     "editorGroup.border": "#3b425200",
     "editorGroup.dropBackground": "#3b425299",
     "editorGroupHeader.noTabsBackground": "#2e3440",
@@ -218,8 +218,7 @@
   "tokenColors": [
     {
       "settings": {
-        "foreground": "#d8dee9ff",
-        "background": "#2e3440ff"
+        "foreground": "#d8dee9ff"
       }
     },
     {
@@ -327,8 +326,7 @@
       "name": "Invalid Illegal",
       "scope": "invalid.illegal",
       "settings": {
-        "foreground": "#D8DEE9",
-        "background": "#BF616A"
+        "foreground": "#D8DEE9"
       }
     },
     {
@@ -1188,6 +1186,72 @@
         "foreground": "#a08196"
       }
     },
+    {
+      "name": "italicsify",
+      "scope": [
+        "meta.selector.css",
+        "support.type.vendored.property-name.css",
+        "support.constant.vendored.property-value.css",
+        "meta.import.ts meta.block.ts variable.other.readwrite.alias.ts",
+        "meta.import.tsx meta.block.tsx variable.other.readwrite.alias.tsx",
+        "meta.import.js variable.other",
+        "meta.export.ts meta.block.ts variable.other.readwrite.alias.ts",
+        "meta.export.tsx meta.block.tsx variable.other.readwrite.alias.tsx",
+        "meta.export.js variable.other",
+        "entity.name.function.ts",
+        "entity.name.function.tsx",
+        "support.type.primitive",
+        "entity.name.tag",
+        // "entity.name.tag.yaml",
+        // "entity.name.tag.doctype",
+        // "entity.name.tag.custom",
+        // "entity.name.tag.html",
+        "meta.tag.sgml.doctype.html",
+        "text.html.basic constant.other.inline-data",
+        "text.xml string.unquoted.cdata",
+        "meta.tag.sgml.doctype",
+        "support.function.basic_functions",
+        "constant.other.rgb-value.css",
+        "variable.assignment.coffee",
+        "support.function.basic_functions",
+        "keyword.operator.expression.typeof",
+        "punctuation.section.embedded",
+        "keyword.operator.type.annotation",
+        "variable.object.property.ts",
+        "variable.object.property.js",
+        "variable.object.property.jsx",
+        "variable.object.property.tsx",
+        "assignment.coffee",
+        "entity.name.type.ts",
+        "support.constant.math",
+        "meta.object-literal.key",
+        "meta.var.expr storage.type",
+        "variable.scss",
+        "variable.sass",
+        "variable.other.less",
+        "variable.parameter.url.scss",
+        "variable.parameter.url.sass",
+        "source.css.scss variable.interpolation",
+        "parameter",
+        "italic",
+        "quote",
+        "keyword",
+        "storage",
+        "language",
+        "constant.language",
+        "variable.language",
+        "type .function",
+        "type.function",
+        "storage.type.class",
+        "type.var",
+        "meta.parameter",
+        "variable.parameter",
+        "meta.parameters",
+        "keyword.control",
+        "modifier",
+        "this",
+        "comment"
+      ],
       "settings": {
         "fontStyle": "italic"
       }

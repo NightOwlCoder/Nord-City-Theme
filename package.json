@@ -1,8 +1,8 @@
 {
   "name": "nord-city-theme",
   "displayName": "Nord City Theme",
-  "description": "forked Nord VSCode theme with higher contast + italics.",
-  "version": "1.2.0",
+  "description": "Forked Nord VSCode theme with more contast + italics.",
+  "version": "1.2.1",
   "publisher": "tomByrer",
   "engines": {
     "vscode": "^1.38.0"
@@ -11,21 +11,26 @@
     "type": "git",
     "url": "https://github.com/tomByrer/nord-city-theme"
   },
+  "license" : "MIT",
   "categories": [
-    "Themes",
-    "VSCode"
+    "Themes"
   ],
+  "icon": "icon-nord-4dot.png",
+  "galleryBanner": {
+    "color": "#81a1c1",
+    "theme": "dark"
+  },
   "contributes": {
     "themes": [
       {
         "label": "Nord City Theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/nord-city.json"
+        "path": "./themes/nord-city.color-theme.json"
       },
       {
         "label": "Nord City No Italics Theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/nord-city-no-italics.json"
+        "path": "./themes/nord-city-no-italics.color-theme.json"
       }
     ]
   }

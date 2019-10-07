@@ -8,6 +8,12 @@
 
 SCSS is the same.
 
+## JSON
+
+![JSON demo screenshot](json.png "JSON demo screenshot")
+
+JSON seems a bit dark & too woodsy for me, but does match how strings are quoted, so I'll leave for now..
+
 ## JSX (XML inside JavaScript)
 
 ![JSX demo screenshot](jsx.png "JSX demo screenshot")

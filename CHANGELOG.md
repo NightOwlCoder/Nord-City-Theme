@@ -1,5 +1,13 @@
 # Change Log
 
+## [1.2.1]
+* prep for marketplace release
+  + add licence: MIT
+  + add icon for logo
+  + updated theme filenames
+* fixed bad selector field names
+* added forgotten `json.png` in demo
+
 ## [1.2.0]
 * forked from [chaddanna/Nord-Operator-Theme](https://github.com/chaddanna/Nord-Operator-Theme)
 * reduced the number of italic items
