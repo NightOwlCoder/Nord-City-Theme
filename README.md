@@ -8,7 +8,7 @@ A customized Nord theme for Visual Studio Code with italic support and wider ran
 
 ![HTML demo screenshot](demos/htm.png "HTML demo screenshot")
 
-For more screenshots for PHP, Markdown, VLang, etc, visit the [demos page](https://github.com/tomByrer/nord-city-theme/demos/demos.md).
+For more screenshots for PHP, Markdown, VLang, etc, visit the [demos page](https://github.com/tomByrer/Nord-City-Theme/blob/master/demos/demos.md).
 
 </div>
 
