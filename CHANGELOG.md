@@ -1,5 +1,8 @@
 # Change Log
 
+## [1.2.2]
+* fix typos in markdowns
+
 ## [1.2.1]
 * prep for marketplace release
   + add licence: MIT
