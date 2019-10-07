@@ -52,4 +52,3 @@ Hacked by **[Tom Byrer](https://github.com/tomByrer)** in Kansas City.
 Follow me on **[Twitter](https://twitter.com/tomByrer)**
 
 See [CHANGELOG.md](CHANGELOG.md) for history & prior authors' credits.
-
