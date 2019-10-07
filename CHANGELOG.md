@@ -1,5 +1,9 @@
 # Change Log
 
+## [1.2.3]
+* New icon that shows off colors.
+* smaller HTML demo for README
+
 ## [1.2.2]
 * fix typos in markdowns
 

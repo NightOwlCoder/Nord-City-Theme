@@ -3,3 +3,4 @@
 .gitignore
 demos/**
 vsc-extension-quickstart.md
+*.afdesign

@@ -2,7 +2,7 @@
   "name": "nord-city-theme",
   "displayName": "Nord City Theme",
   "description": "Forked Nord VSCode theme with more contast + italics.",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "publisher": "tomByrer",
   "engines": {
     "vscode": "^1.38.0"
@@ -15,7 +15,7 @@
   "categories": [
     "Themes"
   ],
-  "icon": "icon-nord-4dot.png",
+  "icon": "icon.png",
   "galleryBanner": {
     "color": "#81a1c1",
     "theme": "dark"
