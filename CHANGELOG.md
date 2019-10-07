@@ -1,5 +1,13 @@
 # Change Log
 
+## [1.2.1]
+* prep for marketplace release
+  + add licence: MIT
+  + add icon for logo
+  + updated theme filenames
+* fixed bad selector field names
+* added forgotten `json.png` in demo
+
 ## [1.2.0]
 * forked from [chaddanna/Nord-Operator-Theme](https://github.com/chaddanna/Nord-Operator-Theme)
 * reduced the number of italic items
@@ -13,6 +21,6 @@
 * added no-italics version
 
 ## [1.0.0]
-* intial release as [Nord-Operator-Theme](https://github.com/chaddanna/Nord-Operator-Theme), assuming forked from [arcticicestudio/nord-visual-studio-code]{https://github.com/arcticicestudio/nord-visual-studio-code}
+* intial release as [Nord-Operator-Theme](https://github.com/chaddanna/Nord-Operator-Theme), assuming forked from [arcticicestudio/nord-visual-studio-code](https://github.com/arcticicestudio/nord-visual-studio-code)
 * added italics
 * added more colors

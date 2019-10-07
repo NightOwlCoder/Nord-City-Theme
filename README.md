@@ -2,7 +2,9 @@
 
 # Nord City VSCode Theme
 
-A customized Nord theme for Visual Studio Code with italic support and wider range of colors used.  Intended to work with [Victor Mono](https://rubjo.github.io/victor-mono/) programming font, but should work with [Operator Mono ($297USD)](https://www.typography.com/fonts/operator/styles/operatormono0, & other [italic alternatives](https://dev.to/jandedobbeleer/a-viable-alternative-to-operator-mono-in-visual-studio-code-ge8).  A no italic option is available.
+![icon](icon-nord-4dot.png "icon")
+
+A customized Nord theme for Visual Studio Code with italic support and wider range of colors used.  Intended to work with [Victor Mono](https://rubjo.github.io/victor-mono/) programming font, but should work with [Operator Mono ($297USD)](https://www.typography.com/fonts/operator/styles/operatormono0), & other [italic alternatives](https://dev.to/jandedobbeleer/a-viable-alternative-to-operator-mono-in-visual-studio-code-ge8).  A no italic option is available.
 
 ![HTML demo screenshot](demos/htm.png "HTML demo screenshot")
 

@@ -27,7 +27,7 @@
     "editorLineNumber.foreground": "#d8dee966",
     "editorWhitespace.foreground": "#4c566a9e",
     "editorWidget.background": "#2e3440",
-    "editorWidgetBorder": "#3b4252",
+    "editorWidget.border": "#3b4252",
     "editor.background": "#0b0d10",
     "editor.foreground": "#d8dee9e8",
     "editor.hoverHighlightBackground": "#3b4252",
@@ -49,7 +49,7 @@
     "editorBracketMatch.background": "#2e344000",
     "editorBracketMatch.border": "#88c0d0",
     "editorCodeLens.foreground": "#4c566a",
-    "editorGroup.background": "#2e3440",
+    "editorGroup.emptyBackground": "#2e3440",
     "editorGroup.border": "#3b425200",
     "editorGroup.dropBackground": "#3b425299",
     "editorGroupHeader.noTabsBackground": "#2e3440",
@@ -218,8 +218,7 @@
   "tokenColors": [
     {
       "settings": {
-        "foreground": "#d8dee9ff",
-        "background": "#2e3440ff"
+        "foreground": "#d8dee9ff"
       }
     },
     {
@@ -327,8 +326,7 @@
       "name": "Invalid Illegal",
       "scope": "invalid.illegal",
       "settings": {
-        "foreground": "#D8DEE9",
-        "background": "#BF616A"
+        "foreground": "#D8DEE9"
       }
     },
     {
@@ -1186,10 +1184,6 @@
       "scope": "source.yaml entity.name.tag",
       "settings": {
         "foreground": "#a08196"
-      }
-    },
-      "settings": {
-        "fontStyle": "italic"
       }
     },
     {
