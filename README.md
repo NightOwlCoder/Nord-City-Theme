@@ -8,7 +8,7 @@ A customized Nord theme for Visual Studio Code with italic support and wider ran
 
 ![HTML demo screenshot](demos/htm.png "HTML demo screenshot")
 
-For more screenshots for PHP, Markdown, VLang, etc, visit the [demos page](https://github.com/tomByrer/nord-city-theme/demos/demos.md).
+For more screenshots for PHP, Markdown, VLang, etc, visit the [demos page](https://github.com/tomByrer/Nord-City-Theme/blob/master/demos/demos.md).
 
 </div>
 
@@ -22,7 +22,7 @@ For more screenshots for PHP, Markdown, VLang, etc, visit the [demos page](https
 
 ### Optional Plugins
 
-Screenshots use [Victor Mono font](https://rubjo.github.io/victor-mono/#get_it) with ligatures turned on & [CoenraadS/Bracket-Pair-Colorizer-2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2).   Note: there is a bug in BPC2 that [highlights HTML comment brackets](https://github.com/CoenraadS/Bracket-Pair-Colorizer-2/issues/114).  This configuration works well on my smaller 4k monitor.
+[Screenshots](https://github.com/tomByrer/Nord-City-Theme/blob/master/demos/demos.md) use [Victor Mono font](https://rubjo.github.io/victor-mono/#get_it) with ligatures turned on & [CoenraadS/Bracket-Pair-Colorizer-2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2).   Note: there is a bug in BPC2 that [highlights HTML comment brackets](https://github.com/CoenraadS/Bracket-Pair-Colorizer-2/issues/114).  This configuration works well on my smaller 4k monitor.
 
 #### optional `setings.json`
 
